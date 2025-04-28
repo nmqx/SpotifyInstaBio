@@ -1,4 +1,5 @@
-# spotifyXinstagram
+# SpotifyInstaBio
+
 
 Automatically update your Instagram bio with your currently playing Spotify track.
 
